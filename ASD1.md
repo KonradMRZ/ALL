@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class s17227 {
     static int tablica[];
+    //testtest
 
     public static void main(String[] args){
         //===============================================
